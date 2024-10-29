@@ -1,0 +1,207 @@
+.educ {
+    color: white;
+    font-size: 3em;
+    font-family: arial;
+    margin: 0;
+    flex-grow: 1;
+    display: inline-block;
+    text-align: center;
+}
+
+h1{
+    color: black;
+    font-size: 3em;
+    font-family: arial;
+    margin: 0;
+    flex-grow: 1;
+    display: inline-block;
+    text-align: center;
+} 
+
+
+header {
+    background-color: red;
+    width: 100%; 
+    padding: 10px; 
+}
+
+.container {
+    display: flex;
+    align-items: center; 
+    justify-content: flex-start; 
+    max-width: 1000px; 
+    margin: 0 auto;
+    background-color: red;
+}
+.h{
+    text-align: center; 
+    padding: 20px 0;
+}
+
+.cont{
+    height: 90px; 
+    width: auto; 
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    margin: 0 30px;
+    display: inline-block;
+    text-align: center;
+    font-family: arial;
+}
+
+h3{
+    font-family: arial;
+    text-align: center;
+    color: darkred;
+    font-size: 2.5em;
+
+}
+
+h2{
+    font-family: arial;
+    text-align: center;
+    color: black;
+    font-size: 3em;
+    margin-bottom: 10px;
+}
+.logo {
+    height: 90px; 
+    width: auto; 
+    margin-right: 20px;
+    margin: 0;  
+}
+
+nav {
+    display: flex; 
+    justify-content: center; 
+    margin: 0; 
+    background-color: darkred;
+    padding: 10px; 
+    width: 100%; 
+    transition: color 0.3s;
+    color:white;
+    font-family: arial;
+    
+}
+
+a:active {
+    color: black; 
+}
+
+.home{
+    font-family: arial;
+    font-size: 1.5em;
+}
+
+
+footer{
+    background-color: red;
+    width: 100%; 
+    padding: 30px;
+    color:white;
+    font-family: arial;
+    
+}
+
+p{
+    font-family: arial;
+    color:#4F5272;
+    text-align: left; 
+    margin: 0 385px;
+}
+
+.g1{
+    text-align: justify; 
+    margin: 0 385px;
+    font-size: 0.8em;
+}
+
+.enem{
+    text-align: justify;
+    margin: 0 385px;
+    font-size: 0.8em;
+}
+
+.local{
+    text-align: justify; 
+    margin: 0 385px;
+    font-size: 1.2em;
+    color:black;
+}
+
+.prova{
+    text-align: justify; 
+    margin: 0 385px;
+    font-size: 1.7em;
+    color:black;
+}
+
+.ana{
+    text-align: justify; 
+    margin: 0 385px;
+    font-size: 1.2em;
+    color:black;
+}
+
+.propaganda{
+        display: flex; 
+        color:black;
+        align-items: center; 
+        margin: 20px 0; 
+}
+
+.propaganda p {
+    font-size: 2.4em; 
+    font-weight: bold; 
+    color: darkred;
+    margin: 0; 
+    text-align: justify; 
+}
+    
+    .propaganda img {
+        margin-right: 10px;
+}
+.n1 {
+    display: flex; 
+    align-items: center; 
+    margin: 20px; 
+}
+
+.n1 img {
+    margin-right: 20px; 
+    border-radius: 10px; 
+}
+
+.n1-fieldset {
+    border: 2px solid red; 
+    border-radius: 10px; 
+    background-color: whitesmoke; 
+    padding: 20px; 
+    margin: 20px 0; 
+}
+
+.n1 p {
+    font-size: 1.8em; 
+    font-weight: bold; 
+    color: darkred;
+    margin: 0; 
+    text-align: left; 
+}
+
+
+.b{
+    justify-content: justify;
+    font-size: 1.8em; 
+    font-family: arial;
+} 
+
+.lu{
+    font-family: arial;
+    text-align: center;
+    color: black;
+    font-size: 2em;
+    margin-bottom: 10px; 
+}
